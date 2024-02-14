@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # flutter_random_dice_generator
 
-https://github.com/gmn26/flutter_random_dice_generator/assets/91667877/25c6d6ff-e731-4d2b-8cfd-c09f897f3305
+![app_preview](https://github.com/gmn26/flutter_random_dice_generator/assets/91667877/0f9876aa-11e3-492f-8a56-3c1d97786bd5)
 
 
