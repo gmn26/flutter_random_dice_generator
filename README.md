@@ -14,5 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 # flutter_random_dice_generator
-# flutter_random_dice_generator
+
+https://github.com/gmn26/flutter_random_dice_generator/assets/91667877/25c6d6ff-e731-4d2b-8cfd-c09f897f3305
+
+
